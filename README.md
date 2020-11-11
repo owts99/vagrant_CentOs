@@ -15,7 +15,7 @@
 ### virtaulbox
 
 ### hyper-V
-[Imgur](https://i.imgur.com/piXhOiz.png)
+![Imgur](https://i.imgur.com/piXhOiz.png)
 切換請用 BCDedit 
 
 ### vagrant
