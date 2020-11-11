@@ -5,7 +5,9 @@
 ## 需注意現象
 
 > 系統使用的虛擬機器是哪種? / choice your virtual machine.
+
 > > VirtaulBox
+
 > > Hyper-V
 
 
