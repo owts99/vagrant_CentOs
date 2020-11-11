@@ -8,15 +8,30 @@
 
 > > VirtaulBox
 
+
 > > Hyper-V
 
-## 準備環境下載及準備 
+## 1.準備環境下載及準備  
 
-### virtaulbox
+### 1.1.1 virtaulbox
+https://www.virtualbox.org/
 
-### hyper-V
+請下載準備好
+
+### 1.1.2 hyper-V
 ![Imgur](https://i.imgur.com/piXhOiz.png)
+
 切換請用 BCDedit 
 
-### vagrant
+### 1.2 vagrant (虛擬機器管理工具)
 https://www.vagrantup.com/
+
+### 1.3. 推薦常用工具 vscode
+
+## 2. 執行環境
+
+將Vagrantfile pull到資料夾內
+
+``` cmd
+vagrant up
+```
